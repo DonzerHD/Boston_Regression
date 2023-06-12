@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+Notebooks/mlruns
+Notebooks/mlartifacts
+Notebooks/mlruns/0/
 # Distribution / packaging
 .Python
 build/
