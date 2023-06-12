@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/8b5ff18a6d204b5887d54ae3f9dea4ca/artifacts
+end_time: 1686561028393
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8b5ff18a6d204b5887d54ae3f9dea4ca
+run_name: upset-cod-396
+run_uuid: 8b5ff18a6d204b5887d54ae3f9dea4ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686561026632
+status: 3
+tags: []
+user_id: apprenant

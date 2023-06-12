@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/522b73db26dc4f1887aade47ed1255d0/artifacts
+end_time: 1686561850545
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 522b73db26dc4f1887aade47ed1255d0
+run_name: gifted-cat-947
+run_uuid: 522b73db26dc4f1887aade47ed1255d0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686561848876
+status: 3
+tags: []
+user_id: apprenant

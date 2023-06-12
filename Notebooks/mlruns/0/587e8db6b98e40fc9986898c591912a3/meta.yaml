@@ -1,0 +1,16 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/587e8db6b98e40fc9986898c591912a3/artifacts
+deleted_time: 1686559977314
+end_time: 1686559779780
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 587e8db6b98e40fc9986898c591912a3
+run_name: auspicious-loon-896
+run_uuid: 587e8db6b98e40fc9986898c591912a3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686559777493
+status: 3
+tags: []
+user_id: apprenant

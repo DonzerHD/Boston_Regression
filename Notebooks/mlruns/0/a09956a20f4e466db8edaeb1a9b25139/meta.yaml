@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/a09956a20f4e466db8edaeb1a9b25139/artifacts
+end_time: 1686566023491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a09956a20f4e466db8edaeb1a9b25139
+run_name: unleashed-fish-421
+run_uuid: a09956a20f4e466db8edaeb1a9b25139
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686566021729
+status: 3
+tags: []
+user_id: apprenant

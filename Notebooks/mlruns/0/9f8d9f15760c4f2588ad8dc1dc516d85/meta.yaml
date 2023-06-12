@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/9f8d9f15760c4f2588ad8dc1dc516d85/artifacts
+end_time: 1686561219502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f8d9f15760c4f2588ad8dc1dc516d85
+run_name: selective-asp-658
+run_uuid: 9f8d9f15760c4f2588ad8dc1dc516d85
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686561217615
+status: 3
+tags: []
+user_id: apprenant

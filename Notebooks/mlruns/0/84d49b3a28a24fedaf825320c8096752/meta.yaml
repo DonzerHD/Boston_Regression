@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/84d49b3a28a24fedaf825320c8096752/artifacts
+end_time: 1686565000198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 84d49b3a28a24fedaf825320c8096752
+run_name: omniscient-snipe-458
+run_uuid: 84d49b3a28a24fedaf825320c8096752
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686564998291
+status: 3
+tags: []
+user_id: apprenant

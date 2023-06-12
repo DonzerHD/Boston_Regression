@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/b96f87485ea14bea90bd32c2577f2e93/artifacts
+end_time: 1686564546077
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b96f87485ea14bea90bd32c2577f2e93
+run_name: sassy-cow-235
+run_uuid: b96f87485ea14bea90bd32c2577f2e93
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686564543691
+status: 3
+tags: []
+user_id: apprenant

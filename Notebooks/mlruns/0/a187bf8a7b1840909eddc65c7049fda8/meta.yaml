@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/a187bf8a7b1840909eddc65c7049fda8/artifacts
+end_time: 1686565354084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a187bf8a7b1840909eddc65c7049fda8
+run_name: placid-dolphin-270
+run_uuid: a187bf8a7b1840909eddc65c7049fda8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686565351808
+status: 3
+tags: []
+user_id: apprenant

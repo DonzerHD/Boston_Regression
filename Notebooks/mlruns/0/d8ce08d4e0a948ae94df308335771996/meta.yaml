@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/d8ce08d4e0a948ae94df308335771996/artifacts
+end_time: 1686570445668
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d8ce08d4e0a948ae94df308335771996
+run_name: rambunctious-auk-574
+run_uuid: d8ce08d4e0a948ae94df308335771996
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686570443831
+status: 3
+tags: []
+user_id: apprenant

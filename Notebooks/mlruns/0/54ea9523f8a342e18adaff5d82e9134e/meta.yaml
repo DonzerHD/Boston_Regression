@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/54ea9523f8a342e18adaff5d82e9134e/artifacts
+end_time: 1686565500787
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54ea9523f8a342e18adaff5d82e9134e
+run_name: gregarious-fly-310
+run_uuid: 54ea9523f8a342e18adaff5d82e9134e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686565500777
+status: 4
+tags: []
+user_id: apprenant

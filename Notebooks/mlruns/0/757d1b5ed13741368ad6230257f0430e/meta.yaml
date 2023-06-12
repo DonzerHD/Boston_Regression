@@ -1,0 +1,15 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/757d1b5ed13741368ad6230257f0430e/artifacts
+end_time: 1686564943488
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 757d1b5ed13741368ad6230257f0430e
+run_name: adaptable-panda-112
+run_uuid: 757d1b5ed13741368ad6230257f0430e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686564941683
+status: 3
+tags: []
+user_id: apprenant

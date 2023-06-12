@@ -1,0 +1,16 @@
+artifact_uri: file:///home/apprenant/Desktop/Boston_Regression/Notebooks/mlruns/0/f94b82940d7c4774be0745502853a3d4/artifacts
+deleted_time: 1686562875395
+end_time: 1686560626394
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f94b82940d7c4774be0745502853a3d4
+run_name: abrasive-goose-24
+run_uuid: f94b82940d7c4774be0745502853a3d4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1686560624611
+status: 3
+tags: []
+user_id: apprenant
